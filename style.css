@@ -75,3 +75,17 @@ space:hover{
     border: 1px solid #3308FF;
     transition:  border, color, -5s;
 }
+
+.flex {
+    max-width: 400px;
+    margin: 0 auto;
+}
+
+.p1, .p2 {
+    font-size: 20px;
+    line-height: 24px;
+}
+
+.p2 {
+    float: right;
+}
